@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Django local database
+*.sqlite3
+db.sqlite3
+
+# Environment variables and secrets
+.env
+
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+
+# Logs
+*.log
+
+# Editor settings
+.vscode/
+.idea/
